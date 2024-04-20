@@ -18,7 +18,6 @@
 		<kotlin.version>1.9.20</kotlin.version>
 	</properties>
 	<dependencies>
-
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
